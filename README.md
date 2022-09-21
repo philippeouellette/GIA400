@@ -54,11 +54,18 @@ L’état du résultat net indique si la société gagne ou perd de l’argent a
 
 Les **produits** représentent les revenus rapportés par la vente de produits et la prestation de services au cours d’une période comptable donnée.
 
-La **marge brute** correspond aux produits moins le coût des ventes.
-
 Le **coût de vente** (ou coût des produits vendus), représente le coût des matières premières et de la main d’œuvre directe ainsi que tous les coûts indirects liés à la production.
 
-Le **résultat opérationnel** (ou résultat d'exploitation) = marge brute - frais de r&d, marketing, vente, administration.
+La **marge brute** correspond aux produits moins le coût des ventes.
+
+Le **résultat opérationnel** (ou résultat d'exploitation) = **marge brute** - frais de r&d, marketing, vente, administration.
+
+Le **résultat avant impôt sur le résultat** (ou résultat imposable) = **résultat opérationnel** - les charges financières, principalement les intérêts sur la dette à long terme.
+
+Le **résultat net** (ou bénéfice net, résultat comptable, bénéfice comptable, profit net, marge nette) = **résultat avant impôt sur le résultat** - la charge d’impôt
+
+**Résultat par action** (RPA) = résultat attribuable aux actionnaires ordinaires / nombre moyen d'actions ordinaires en circulation
+
 
 
 
